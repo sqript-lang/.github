@@ -41,7 +41,7 @@ Beyond the visual perfection of the `qp` symmetry in its name, **sqript** is bei
 
 ### The Grand Vision (Long-term)
 *   **Native UI:** Official RayGUI wrappers for seamless desktop application development.
-*   **A New Web Paradigm:** Developing a separate web protocol and a dedicated browser built for sqript. Unlike standard sandboxed browsers, this will allow applications full, unhindered access to the host machine.
+*   **A New Web Paradigm:** Developing a separate web protocol and two dedicated browser built for sqript. Unlike standard sandboxed browsers, this browser will ***optionally*** allow applications full, unhindered access to the host machine.
 
 <div align="center">
 
