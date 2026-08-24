@@ -66,3 +66,6 @@ Beyond the visual perfection of the `qp` symmetry in its name, **sqript** is bei
   </tr>
 </table>
 
+---
+[How it started](https://github.com/sqript-lang/.github/blob/main/convo.md)
+
