@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" />
+  <img src="../Banner.png" />
 </p>
 
 # sqript
