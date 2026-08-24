@@ -47,13 +47,22 @@ Beyond the visual perfection of the `qp` symmetry in its name, **sqript** is bei
 
 ---
 
-## Team
-  
-  <a href="https://github.com/Megamer-studios">
-    <img src="https://github.com/Megamer-studios.png" width="100" style="border-radius: 50%;" alt="Megamer-studios"/>
-    <br />
-    <sub><b>Akumarin Kukino</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+<h2 align="center">Team</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Megamer-studios">
+        <img src="https://github.com/Megamer-studios.png" width="150px;" alt="Akumarin Kukino"/><br />
+        <b>Akumarin Kukino</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Erayegeekalkann">
+        <img src="https://github.com/Erayegeekalkann.png" width="150px;" alt="Beanz"/><br />
+        <b>Beanz</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
