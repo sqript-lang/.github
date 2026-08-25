@@ -69,3 +69,57 @@ Beyond the visual perfection of the `qp` symmetry in its name, **sqript** is bei
 ---
 [How it started](https://github.com/sqript-lang/.github/blob/main/convo.md)
 
+---
+
+# Theoretical example
+
+### (may change)
+
+</div>
+
+```
+#!/bin/sqript
+
+@include Standard
+@include IO
+
+$namespace Program1
+
+$define write(a) = sayLine(a);
+
+class program {
+
+  string name = ""; 
+  readonly string version = "5.5.5.5";
+  // defines the version
+  
+  void main(string[] args) {
+
+    write(version); 
+    write("What is your name?");
+    string answer = readLine();
+  
+    if (answer != null) {
+
+      write($"Your name is {name}");
+
+      if (path.exists("/path.txt/")) {
+
+        string content = file.read("/path.txt/");
+
+        if (content.Lines > 0) {
+
+        string[] lines = content.splitByLine();
+
+          foreach (var line -> lines) {
+
+          write(line);
+          
+          }
+        }
+      }
+    }
+  }
+}
+```
+
