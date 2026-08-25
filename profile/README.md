@@ -79,22 +79,28 @@ Beyond the visual perfection of the `qp` symmetry in its name, **sqript** is bei
 
 ```
 #!/bin/sqript
+// define the executable
 
 @include Standard
 @include IO
+// import the libraries
 
 $namespace Program1
+// define the namespace
 
 $define write(a) = sayLine(a);
+// create an alias
 
 class program {
+// define the main class
 
   string name = ""; 
   readonly string version = "5.5.5.5";
-  // defines the version
+  // define variables
   
   void main(string[] args) {
-
+  // the void entry point (this can be any type of variable and can be async)
+  
     write(version); 
     write("What is your name?");
     string answer = readLine();
@@ -110,8 +116,10 @@ class program {
         if (content.Lines > 0) {
 
         string[] lines = content.splitByLine();
-
+        // built-in split by line function
+  
           foreach (var line -> lines) {
+          // custom foreach loop for easue of use
 
           write(line);
           
