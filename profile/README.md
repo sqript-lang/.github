@@ -2,9 +2,11 @@
   <img src="../Banner.png" />
 </p>
 
-# sqript
+# sqript `.sqp`
 
 > "sqript is a high level programming language meant to be the next Python"
+
+
 
 ## What does sqript bring?
 
