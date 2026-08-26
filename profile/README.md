@@ -82,6 +82,9 @@ Beyond the visual perfection of the `qp` symmetry in its name, **sqript** is bei
 #!/bin/sqript
 // define the executable
 
+>Begin
+// tells the compile where to begin
+
 @include Standard
 @include IO
 // import the libraries
@@ -130,5 +133,8 @@ class program {
     }
   }
 }
+
+>End
+// tells the compile where to end. {After this line isn't read}
 ```
 
