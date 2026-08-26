@@ -56,6 +56,7 @@ Beyond the visual perfection of the `qp` symmetry in its name, **sqript** is bei
         <img src="https://github.com/Megamer-studios.png" width="150px;" alt="Akumarin Kukino"/><br />
         <b>Akumarin Kukino</b>
       </a>
+      <p>Learning Rust AS you are reading this like literally RN!</p>
     </td>
     <td align="center">
       <a href="https://github.com/Erayegeekalkann">
